@@ -12,3 +12,9 @@ key words for scoring tweets.
 2016-05-01
 consider testing 3.5 + 3.5 for a week; the first 3.5 days (Sunday, Monday, Tuesday, half Wednesday) as 1 data point, the latter 3.5 days as the other data point. this will increase the 
 number of active users. this might amplify the signal. why 3.5d? weekends market is closed.
+
+2016-05-02
+for AAPL in March, most tweets are non-stock price related, but news/facts related. However, there are still some people expressing their
+strong opinions about stock price movement. For the initial findings, focus on these usesr. aggregate over longer time, and by 3.5 days. 
+use "Wednesday open - Monday open" as the first point and "Friday close - Wednesday close" as the second, to minimize price noise and 
+amplify signal from tweets.
