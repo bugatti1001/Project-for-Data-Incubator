@@ -1,0 +1,10 @@
+2016-04-30
+about 70% of all tweets data contains 'gold'.
+remove tweets of the pattern "I've collected xxx gold coins..." ( ~ 50% in march!)
+gold is still the largest tweet category. 
+many tweets are not related to stock price predictions. however, if lucky, maybe I can still find some 'alpha' users by having a good set of 
+key words for scoring tweets.
+
+2016-05-01
+consider testing 3.5 + 3.5 for a week; the first 3.5 days (Sunday, Monday, Tuesday, half Wednesday) as 1 data point, the latter 3.5 days as the other data point. this will increase the 
+number of active users. this might amplify the signal. why 3.5d? weekends market is closed.
