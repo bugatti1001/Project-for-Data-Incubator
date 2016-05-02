@@ -15,6 +15,19 @@ number of active users. this might amplify the signal. why 3.5d? weekends market
 
 2016-05-02
 for AAPL in March, most tweets are non-stock price related, but news/facts related. However, there are still some people expressing their
-strong opinions about stock price movement. For the initial findings, focus on these usesr. aggregate over longer time, and by 3.5 days. 
+strong opinions about stock price movement. 
+
+For the initial findings, focus on these usesrs. aggregate over longer time, and by 3.5 days. 
 use "Wednesday open - Monday open" as the first point and "Friday close - Wednesday close" as the second, to minimize price noise and 
 amplify signal from tweets.
+
+With data from stocktwits, the resolution could be improved to 1 day.
+
+more regarding the time interval:
+it is not the smaller the time interval, the better, for obvious reasion. (too noisy and no one cares to predict the price change in the 
+next second)
+it is not the larger the better either, for prediction purpose. no one cares to predict the stock price change several years later.
+however, it should be true that, the larger the time interview, with the range of less than a month, the better the tweets would
+reprecent the actual stock price change within the same period. 
+
+
