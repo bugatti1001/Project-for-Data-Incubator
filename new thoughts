@@ -33,7 +33,7 @@ After all, the Google paper (using public mood for stock market prediction) show
 
 2016-05-03
 More actions to try:
-1. see how much data from stocktwits I can get.
+1. see how much data from stocktwits I can get (to improve participation percentage and accuracy).
 2. learn and try deep learning for scoring tweets.
 3. try longer time interval to improve participation percentage. instead 1 day, 3.5 days and 1 week is worth trying.
 4. instead of just up or down, if signal is strong enough, try predicting percentage change!
