@@ -38,4 +38,10 @@ More actions to try:
 3. try different time interval, instead 1 day, 3.5 days and 1 week is worth trying.
 4. instead of just up or down, if signal is strong enough, try predicting percentage change!
 
+Elevator pitch 1.0:
+Stock market is amazingly dynamic. Tranditional ways of finding signals based on economical indicators or public sentiment to predict 
+stock price movement have shown little success. On the other hand, some people, though few, have way better understanding
+of stock prices than machine. Many of these people post their opinions on their favorite stocks on the social media. So why not find them 
+and only listen to what they say to predict stock price change?
+
 
